@@ -1,5 +1,5 @@
-# rust-rp-practice
+# Rust on Raspberry Pi Pico (RP2040)
 
 Some practice projects I'm doing to learn Embedded rust on a Raspberry Pi Pico board.
 
-Each project is created from the [rp-pico-template](https://github.com/diegoasanch/rp-pico-template) and is focused on a specific topic.
+The projects are using the [Embassy](https://github.com/embassy-rs/embassy/tree/main) framework and are based on the [rp-pico-template](https://github.com/diegoasanch/rp-pico-template), focusing on a specific topic each.
